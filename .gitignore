@@ -1,0 +1,8 @@
+*.class
+out/
+bin/
+.idea/
+*.iml
+.vscode/
+montar_repo.sh
+rehacer_repo.sh
